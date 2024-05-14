@@ -1,3 +1,4 @@
+<div align="center">
 # Hola soy Ribaldo / RMcode
 ¡Hola! Soy un desarrollador Java con pasión por aprender y aplicar nuevas tecnologías. Tengo conocimientos en el desarrollo de aplicaciones backend, especialmente con Spring Boot y PostgreSQL. Siempre estoy en busca de nuevas oportunidades para mejorar mis habilidades y conocimientos.
 
@@ -13,6 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribaldo23&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+</div>
 ![](https://github-profile-trophy.vercel.app/?username=Ribaldo23&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
