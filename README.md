@@ -1,8 +1,8 @@
-<center>
-   # Hola soy Ribaldo / RMcode
+<h1 style="text-align: center;">  # Hola soy Ribaldo / RMcode </h1>
+ 
 
 ¡Hola! Soy un desarrollador Java con pasión por aprender y aplicar nuevas tecnologías. Tengo conocimientos en el desarrollo de aplicaciones backend, especialmente con Spring Boot y PostgreSQL. Siempre estoy en busca de nuevas oportunidades para mejorar mis habilidades y conocimientos.
-</center>
+
 
    ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RMcode_) 
